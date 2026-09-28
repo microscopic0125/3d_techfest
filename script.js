@@ -169,7 +169,7 @@ scene.add(neonRimLight);
    YOUR FILE MUST BE HERE:
 
    model/
-       techfest-cube.glb
+       techfest-cube_modified_modified.glb
 
    ===================================================== */
 
@@ -186,7 +186,7 @@ console.log(
 
 gltfLoader.load(
 
-    "./model/techfest-cube.glb",
+    "./model/techfest-cube_modified_modified.glb",
 
 
     /* =========================================
@@ -462,7 +462,7 @@ gltfLoader.load(
         );
 
         console.error(
-            "./model/techfest-cube.glb"
+            "./model/techfest-cube_modified_modified.glb"
         );
 
         console.error(
